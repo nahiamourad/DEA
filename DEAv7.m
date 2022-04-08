@@ -1,3 +1,6 @@
+%% This code contains a MATLAB code which uses the stochastic input oriented data envelopment analysis model to evaluate the efficiency scores 
+%% of different decision making units. Together with the deterministic variables, this code can handle two type of stochastic input variables, 
+%% one is following normal distribution and the other is following Poisson distribution.   
 clear;
 %%%%%%%%%%%%%%%%%%%%%%Given
 InputD=[6,15,10];% %Deterministic inputs
